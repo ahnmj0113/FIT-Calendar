@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/background.jpg");
+    text-align:center;
+    
+}
+
+table{
+    border: 1px;
+    background-color: #ffffff
+}
+
+th{
+    text-align:left;
+    border: 1px;
+    color: rgb(255, 255, 255); 
+    background-color:#1e3352
+}
+
+td{
+    height:30px;
+    color: #1d2e63;
+    background-color:#e6e4e4;
+    border: 1px;
+    
+}

@@ -1,0 +1,43 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B3eZaIn9zEVhOWNwOHY2dWIybzQ",
+      "contentType": "text/html",
+      "name": "FIT.html",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms/"
+    },
+    {
+      "fileId": "0B3eZaIn9zEVhNUpESF9aUXBKU3M",
+      "contentType": "text/html",
+      "name": "FIT Select Session.html",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms"
+    },
+    {
+      "fileId": "0B3eZaIn9zEVhZWlCYlJRd3NkZGM",
+      "contentType": "text/html",
+      "name": "FITmonth.html",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B3eZaIn9zEVhbS1JdWliSXBDVHc",
+      "contentType": "text/css",
+      "name": "month.css",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms"
+    },
+    {
+      "fileId": "0B3eZaIn9zEVhcXNEVmMzYmE5XzA",
+      "contentType": "text/css",
+      "name": "Selet FIT.css",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms"
+    },
+    {
+      "fileId": "0B3eZaIn9zEVhRWhvTEw3LU9vNjQ",
+      "contentType": "text/css",
+      "name": "FIT.css",
+      "path": "0B3eZaIn9zEVhYlJmaUhBTEloWms/"
+    }
+  ],
+  "javascriptFiles": []
+}
